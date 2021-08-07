@@ -1,0 +1,1 @@
+autobots-fastapi-class
