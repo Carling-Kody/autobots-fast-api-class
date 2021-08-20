@@ -1,4 +1,4 @@
-from utils.math_utils import add
+from python_playground.utils.math_utils import add
 
 
 def test_add():
